@@ -7,10 +7,10 @@
     android:layout_height="wrap_content">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/textview_from_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/bubble_shape_rounded"
+        android:background="@drawable/bubble_stroke_solid_rounded"
         android:padding="16dp"
         android:text="Hellooooooo my friend"
         android:textColor="@android:color/white"
